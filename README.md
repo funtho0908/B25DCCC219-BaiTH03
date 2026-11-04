@@ -96,12 +96,3 @@ Lưới sản phẩm: 1 cột dưới 640px, 2 cột từ 640px, 4 cột từ 10
 8. Kiểm tra 375px / 768px / 1280px, dark mode, URL không hợp lệ; offline để kiểm tra lỗi và Retry.
 
 Khi deploy static hosting, cấu hình SPA fallback mọi route về `index.html` để hỗ trợ truy cập trực tiếp URL.
-
-## Nộp bài BaiTH03
-
-1. Tạo repository theo tên đề yêu cầu: `<mã sinh viên> - BaiTH03` (điền mã sinh viên thật; nếu nền tảng không hỗ trợ dấu cách, dùng dạng `<mã sinh viên>-BaiTH03`).
-2. Push mã nguồn và `package-lock.json` lên repository. `.gitignore` đã loại `node_modules/`, `dist/`, `.qa/` và `*.tsbuildinfo`; kiểm tra danh sách file trước khi commit.
-3. Nếu repository private, mời giảng viên với username **`anhttptit`** và kiểm tra quyền truy cập.
-4. Dán URL repository vào phần nội dung trả lời trên **Slink**.
-
-Tạo repository, push, mời giảng viên và nộp Slink là các bước cần thực hiện trên tài khoản của sinh viên; có mã nguồn chạy được ở máy chưa đồng nghĩa đã hoàn tất nộp bài.
